@@ -1,0 +1,214 @@
+{
+  "attributes": [
+    {
+      "label": "Category",
+      "tag": "category",
+      "value": "Spor Araba / Spor Otomobil"
+    },
+    {
+      "label": "Kilometre",
+      "tag": "mileage",
+      "value": "13.265 km"
+    },
+    {
+      "label": "Kapı Sayısı",
+      "tag": "doorCount",
+      "value": "2/3"
+    },
+    {
+      "label": "Vites Kutusu",
+      "tag": "transmission",
+      "value": "Manuel vites kutusu"
+    },
+    {
+      "label": "İlk Tescil",
+      "tag": "firstRegistration",
+      "value": "09/1992"
+    },
+    {
+      "label": "Üretici Rengi Adı",
+      "tag": "manufacturerColorName",
+      "value": "Rosso Corsa"
+    },
+    {
+      "label": "Renk",
+      "tag": "color",
+      "value": "Kırmızı"
+    }
+  ],
+  "customDimensions": {
+    "10": "comfort",
+    "47": "NA_NA_NA_NA_NA_NA",
+    "126": "NA_NA_20_NA_NA_languages_NA"
+  },
+  "mediaGallery": {
+    "slideShow": false,
+    "additionalAds": true
+  },
+  "financeBudget": {
+    "netIncome": 2000,
+    "downPayment": 0,
+    "loanDuration": 60,
+    "budgetStatus": "DEFAULT",
+    "localized": {
+      "netIncome": "€2.000",
+      "downPayment": "€0"
+    }
+  },
+  "htmlDescription": "<b>1992 Ferrari F40 Cat/Non Adjust For Sale In Our London Showroom</b><ul><li>Ferrari Classiche granted 2015</li><li>Tanks &amp; belts replaced 2015</li><li>Only 8,200 miles</li><li>Italian delivered</li><li>just 2 owners from new</li><li>Complete with service book, hand books and wallet</li><li>Absolutely stunning condition throughout</li></ul>At it's inception, Ferrari’s F40, developed from the 288 GTO Evoluzione, smashed through an automotive barrier that had remained untouched, bettering 200 mph by achieving a top speed of 201.4 mph.Taking inspiration from the Formula One team and following the tried-and-true formula of “less is more” in order to make it as lightweight as possible. The F40 had no carpet, utilized door pulls instead of traditional handles, and could be ordered with roll-up or fixed windows (installing power-operated windows was simply out of the question). As a result of these fanatical weight-saving measures, the F40 tipped the scales at a feather-light 2,400 pounds, paving the way for a powerful engine to rocket it into the annals of automotive history.The F40’s engine was based on the 288 GTO’s twin-turbocharged V-8, but it was bored to displace nearly three litres. Following some additional tuning, the engine could produce 478 brake horsepower, making it the most powerful road-going Ferrari to date. This engine, combined with its lightweight nature, made the F40’s performance figures just as incredible as its top speed. A sprint from 0 to 60 could take just 3.8 seconds, and the car could be powered onwards to a quarter-mile time in 11.8 seconds. Braking was equally impressive, and the F40 could bring itself to a stop from 60 mph in just 119 feet, if necessary.Finished in Rosso Corsa coachwork with original Red cloth seating. This particular example was supplied new via Crepaldi Auto of Milan, Italy on 18/09/1992..Within the history folder, the car still retains its original books, F40 leather bound wallet, keys and factory-issued service book together with the tools which is a genuine reflection of how highly cherished this car has been over the last 26 years.<br><br>Now available for viewing at the DD Classics Dealership in London, please call for more information.<br><br>Every effort has been made to ensure the accuracy of the above information but errors may occur. Please check with a salesperson.",
+  "makeKey": "Ferrari",
+  "modelKey": "F40",
+  "isNew": false,
+  "isFinancingFeature": false,
+  "isConditionNew": false,
+  "contact": {
+    "type": "Bayi",
+    "country": "GB",
+    "enumType": "DEALER",
+    "name": "DD Classics Limited",
+    "address1": "North Road 97-101",
+    "address2": "GB-TW9 4HJ Kew, London",
+    "phones": [
+      {
+        "type": "PHONE1",
+        "number": "+44 20 8878 3355",
+        "uri": "tel:+442088783355"
+      },
+      {
+        "type": "PHONE2",
+        "number": "+44 7850 888880",
+        "uri": "tel:+447850888880"
+      }
+    ],
+    "latLong": {
+      "lon": -0.2846543,
+      "lat": 51.4765718
+    },
+    "languages": "English",
+    "withMobileSince": "18 Kas 2015 yılından bu yana mobile.de ile",
+    "canSendCcMail": true,
+    "rating": {
+      "count": 4,
+      "score": 4.4,
+      "scoreLocalized": "4,4",
+      "link": "https://www.mobile.de/bewertungen/DDClassicsLimited?lang=tr",
+      "recommendationRate": 100,
+      "adRealityRate": 67
+    },
+    "homepageUrl": "https://home.mobile.de/home/redirect.html?customerId=14049316"
+  },
+  "created": 1538582908,
+  "modified": 1549739393,
+  "renewed": 1538582908,
+  "version": 102,
+  "makeId": 8600,
+  "modelId": 29,
+  "links": [
+    {
+      "rel": "similar-seller-ads",
+      "href": "/svc/similar/?ms=8600%3B29&id%21=268670031&sid=14049316&p=1323000"
+    }
+  ],
+  "images": [
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/EL4AAOSwNjxbtOoo/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/iSoAAOSwi5hbtOox/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/iuYAAOSwSYdbtOo-/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/ieYAAOSwvx1btOpL/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/GycAAOSw1i5btOpX/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/XHEAAOSwcBRbtOpk/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/vRIAAOSwvYZbtOpt/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTIwMFgxNjAw/z/6SUAAOSwK0pbtOp3/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/mPsAAOSw1IVbtOqj/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/QEgAAOSwS1VbtOqp/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/qJMAAOSwcbRbtOqu/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/1DoAAOSwXpFbtOq1/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/gRYAAOSwty5btOq7/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/GakAAOSwcWJbtOrB/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/ShoAAOSwjtZbtOrG/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/y1YAAOSwArFbtOrM/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/ilQAAOSwn91btOrh/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/iwMAAOSwvx1btOrb/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/qxIAAOSwgSpbtOro/$",
+      "set": "fe4cfedffdffffffff"
+    },
+    {
+      "uri": "i.ebayimg.com/00/s/MTA2N1gxNjAw/z/UGgAAOSwRDpbtOsk/$",
+      "set": "fe4cfedffdffffffff"
+    }
+  ],
+  "features": [],
+  "sellerId": 14049316,
+  "priceRating": {
+    "rating": "NO_RATING",
+    "ratingLabel": "No rating",
+    "noRatingReason": "With increasing age, the individual vehicle condition becomes more and more important for the price of the vehicle. Since mobile.de can not reliably determine the current state, we do not perform a price rating for vehicles older than 10 years."
+  },
+  "segment": "Car",
+  "title": "Ferrari F40",
+  "url": "https://suchen.mobile.de/auto-inserat/ferrari-f40-kew-london/268670031.html",
+  "vc": "Car",
+  "id": 268670031,
+  "price": {
+    "grs": {
+      "amount": 1323000.00,
+      "currency": "EUR",
+      "localized": "€1.323.000"
+    },
+    "type": "FIXED"
+  }
+}
